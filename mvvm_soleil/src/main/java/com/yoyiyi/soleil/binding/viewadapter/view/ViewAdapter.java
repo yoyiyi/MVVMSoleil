@@ -9,4 +9,6 @@ package com.yoyiyi.soleil.binding.viewadapter.view;
  * @version 1.0
  */
 public class ViewAdapter {
+
+
 }
