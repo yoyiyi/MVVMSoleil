@@ -10,6 +10,6 @@ package com.yoyiyi.soleil.binding.event;
  */
 public interface Consumer<T> {
 
-    void accept(T t) throws Exception;
+    void call(T t);
 
 }

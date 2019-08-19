@@ -9,5 +9,5 @@ package com.yoyiyi.soleil.binding.event;
  * @version 1.0
  */
 public interface Action {
-    void run() throws Exception;
+    void call();
 }
