@@ -9,4 +9,7 @@ package com.yoyiyi.soleil.binding.adapter.imageview;
  * @version 1.0
  */
 public class BindingAdapter {
+
+
+
 }
