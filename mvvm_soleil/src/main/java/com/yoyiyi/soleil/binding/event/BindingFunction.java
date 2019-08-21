@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
  * @author <a href="2455676683@qq.com">zzq</a>
  * @version 1.0
  */
-public interface Function<T, R> {
+public interface BindingFunction<T, R> {
 
     R call(@NonNull T t);
 }
