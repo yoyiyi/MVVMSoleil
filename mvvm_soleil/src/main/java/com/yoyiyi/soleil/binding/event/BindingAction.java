@@ -10,17 +10,4 @@ package com.yoyiyi.soleil.binding.event;
  */
 public interface BindingAction {
     void call();
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
